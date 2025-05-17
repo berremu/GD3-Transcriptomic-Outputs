@@ -1,0 +1,5 @@
+Network,Annotation
+MyList,GO:0071363|cellular response to growth factor stimulus|-8.8;GO:0070848|response to growth factor|-8.5;GO:0030029|actin filament-based process|-7.1
+MyList_MCODE_ALL,CORUM:351|Spliceosome|-6.0;CORUM:1181|C complex spliceosome|-4.9;GO:0006397|mRNA processing|-3.9
+MyList_SUB1_MCODE_1,GO:0031349|positive regulation of defense response|-3.8;GO:0099536|synaptic signaling|-3.7;GO:0061061|muscle structure development|-3.6
+MyList_SUB1_MCODE_2,CORUM:351|Spliceosome|-8.2;CORUM:1181|C complex spliceosome|-6.5;GO:0006397|mRNA processing|-6.0
