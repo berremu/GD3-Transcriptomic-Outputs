@@ -19,7 +19,7 @@ Results obtained from the L1000CDS² platform based on GD3-specific biomarkers. 
 
 # Thesis Citation
 Title: Transcriptomic-Guided Drug Repositioning in Gaucher Disease Type 3
-Author: Nazen Gülseven
-Institution: Department of Molecular Biology and Genetics, Istanbul Medeniyet University
+Author: Berrenur İnandı
+Institution: Department of Engineering and Natural Sciences, Istanbul Medeniyet University
 Year: 2025
 Note: This dataset is part of an undergraduate thesis and not intended for clinical use without further validation.
